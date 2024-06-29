@@ -5,7 +5,7 @@
 - 🔭 Working on **a lot of different stuff**
 - 🌱 Learning **everything I can get my hands on**
 - 🤔 Looking for help with **finding more time in a single day**
-- 📫 How to reach me: **sergeycrew.bs@gmail.com**
+- 📫 How to reach me: **sergeybodnariuk@gmail.com**
 
 ### My stack
 
